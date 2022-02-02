@@ -3,7 +3,7 @@
 
 <h6>- Minha experiência</h6>
 
-***Estava bem confiante para o desafio do que no START #2!*** </br>
+***Estava bem mais confiante para o desafio do que no START #2!*** </br>
 A sensação da tranquilidade perto do outro teste foi maior. </br>
 Refatorei apenas o último exercício inserindo o regex (não me lembrava de cabeça como fazia) e adicionando uma lógica para String vazia.
 Como sempre digo, fica o aprendizado e vamos em frente.
