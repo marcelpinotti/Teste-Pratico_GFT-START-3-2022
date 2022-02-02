@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gft-starter-3-2022" />
+        <module name="Teste-Pratico_GFT-START-3-2022" />
       </profile>
     </annotationProcessing>
   </component>
