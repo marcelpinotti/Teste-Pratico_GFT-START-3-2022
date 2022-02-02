@@ -12,6 +12,6 @@ public class Teste {
 
         Circulo circulo = new Circulo(4.0);
         System.out.println("A área do circulo é: " + circulo.calculoDaArea());
-        
+
     }
 }
